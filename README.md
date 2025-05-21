@@ -2727,7 +2727,7 @@
 { en: 'Bagaimana transistor NPN bipolar (BJT) dapat dikontrol untuk menyalakan beban (misalnya lampu) dalam rangkaian saklar sederhana?', id: 'Dengan memberikan arus kecil yang cukup ke terminal basis transistor NPN, ini akan memungkinkan arus yang jauh lebih besar mengalir dari kolektor ke emitor, menyalakan lampu.' },
 { en: 'Apa yang terjadi jika arus basis pada transistor BJT yang digunakan sebagai saklar terlalu kecil untuk menggerakkan beban sepenuhnya?', id: 'Transistor mungkin tidak masuk ke daerah saturasi (jenuh) sepenuhnya, sehingga resistansi kolektor-emitornya masih tinggi dan beban tidak mendapatkan daya maksimal atau tidak menyala terang.' },
 { en: 'Apa fungsi dari "common ground reference" (referensi ground bersama) dalam sistem rangkaian yang memiliki beberapa catu daya atau modul?', id: 'Ground bersama menyediakan titik potensial nol yang sama untuk semua bagian sistem, memungkinkan sinyal dan daya direferensikan dengan benar antar modul.' },
-{ en: 'Mengapa penting untuk menghindari "ground loop" (loop tanah) dalam perancangan PCB atau sistem audio?', id: 'Ground loop dapat menyebabkan noise atau hum yang tidak diinginkan terinduksi ke dalam sinyal karena adanya perbedaan potensial kecil antara titik-titik ground yang seharusnya sama.' },
+{ en: 'Mengapa penting untuk menghindari "ground loop" (loop tanah) dalam perancangan PCB atau sistem audio?', id: 'Ground loop dapat menyebabkan noise atau hum yang tidak diinginkan terinduksi ke dalam sinyal karena adanya perbedaan potensial kecil antara titik-titik ground yang seharusnya sama.' }
 
 
         ];
